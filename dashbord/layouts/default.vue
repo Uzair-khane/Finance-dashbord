@@ -4,7 +4,7 @@
     <div>
       <SidebarMenu />
     </div>
-    <div>
+    <div class="p-10">
       <slot />
     </div>
   </div>
